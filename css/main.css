@@ -192,7 +192,6 @@ header img {
 #work {
    width: 100%;
    background-color: #F0F8FF;
-   padding: 0 3%;
 }
 
 #work h3 {
@@ -204,7 +203,6 @@ header img {
 
 #work p {
    text-align: justify;
-   padding: 0 3%;
 }
 
 #work img {
