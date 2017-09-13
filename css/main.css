@@ -215,6 +215,16 @@ header img {
    padding: 2% 45%;
 }
 
+#quotes {
+   padding: 0 2%;
+   text-align: justify;
+   line-height: 1.5em;
+}
+
+#testimonials h2 {
+   text-align: center;
+}
+
 .bottom {
    display: -webkit-flex;
    display: flex;
