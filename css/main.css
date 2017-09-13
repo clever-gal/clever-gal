@@ -164,7 +164,7 @@ header img {
 }
 
 #about {
-   padding: 2% 3%;
+   padding: 2% 2%;
 }
 
 #about h2 {
@@ -182,6 +182,10 @@ header img {
    font-size: 1em;
    padding-left: 2%;
    color: #00008B;
+}
+
+#flair {
+   padding: 0 2%;
 }
 
 #flash {
