@@ -164,7 +164,7 @@ header img {
 }
 
 #about {
-   padding: 2% 2%;
+   padding: 2% 3%;
 }
 
 #about h2 {
@@ -190,19 +190,21 @@ header img {
 }
 
 #work {
+   width: 100%;
    background-color: #F0F8FF;
-   padding: 0 2%;
+   padding: 0 3%;
 }
 
 #work h3 {
    font-family: 'Open Sans', sans-serif;
    text-align: center;
    font-weight: bold;
-   font-size: 1.5em;
+   font-size: 1.2em;
 }
 
 #work p {
    text-align: justify;
+   padding: 0 3%;
 }
 
 #work img {
@@ -228,7 +230,7 @@ header img {
 }
 
 #contact-info {
-   font-size: 1.5em;
+   font-size: 1em;
    text-align: center;
 }
 
@@ -247,7 +249,6 @@ footer ul li {
    width: 100%;
    padding: 0 5%;
    margin: 0 auto;
-   font-size: 1.5em;
 }
 
 /* ==========================================================================
