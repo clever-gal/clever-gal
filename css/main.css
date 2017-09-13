@@ -243,12 +243,24 @@ header img {
    color: #66CCFF;
 }
 
-footer ul li {
+footer ul {
+   padding: 0;
    list-style: none;
+   text-align: center;
+}
+
+footer ul li {
    display: inline;
    width: 100%;
    padding: 0 5%;
    margin: 0 auto;
+   font-size: 1.3em;
+}
+
+footer ul li a {
+   text-decoration: none;
+   color:
+   font-weight: bold;
 }
 
 /* ==========================================================================
