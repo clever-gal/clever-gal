@@ -152,15 +152,14 @@ header img {
 
 #about {
    padding: 2% 2%;
+   text-align: center;
 }
 
 #about h2 {
-   text-align: center;
    font-size: 1.5em;
 }
 
 #about p {
-   text-align: center;
    font-size: 1em;
 }
 
