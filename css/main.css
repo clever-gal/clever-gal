@@ -130,11 +130,8 @@ header h1 {
 
 nav {
    font-size: 1.5em;
-
-}
-
-nav span {
-   font-family: 'Homemade Apple', cursive;
+   font-family: 'Open Sans', sans-serif;
+   text-align: center;
 }
 
 header img {
@@ -163,7 +160,7 @@ header img {
 }
 
 #about p {
-   text-align: justify;
+   text-align: center;
    font-size: 1em;
 }
 
