@@ -157,10 +157,12 @@ header img {
 
 #about h2 {
    font-size: 1.5em;
+   text-align: center;
 }
 
 #about p {
    font-size: 1em;
+   text-align: center;
 }
 
 #about span {
