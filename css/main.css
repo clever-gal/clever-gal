@@ -158,18 +158,13 @@ header img {
 #about h2 {
    font-size: 1.5em;
    text-align: center;
+   font-family: 'Homemade Apple', cursive;
+   color: #00008B;
 }
 
 #about p {
    font-size: 1em;
    text-align: center;
-}
-
-#about span {
-   font-family: 'Homemade Apple', cursive;
-   font-size: 1em;
-   padding-left: 2%;
-   color: #00008B;
 }
 
 #flair {
