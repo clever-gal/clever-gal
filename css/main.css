@@ -166,32 +166,32 @@ header img {
    text-align: center;
 }
 
-#flair {
+.flair {
    padding: 0 2%;
 }
 
-#flash {
-   padding: 3% 45% 0 45%;
+.flair i {
    font-size: 2em;
+   padding: 0 45% 0 45%;
 }
 
-#work {
+.work {
    width: 100%;
    background-color: #F0F8FF;
 }
 
-#work h3 {
+.work h3 {
    font-family: 'Open Sans', sans-serif;
    text-align: center;
    font-weight: bold;
    font-size: 1.2em;
 }
 
-#work p {
+.work p {
    text-align: justify;
 }
 
-#work img {
+.work img {
    width: 10%;
    height: auto;
    padding: 2% 45%;
@@ -253,7 +253,7 @@ footer ul li {
 
 footer ul li a {
    text-decoration: none;
-   color:
+   color: #00008B;
    font-weight: bold;
 }
 
@@ -338,7 +338,18 @@ footer ul li a {
    ========================================================================== */
 /*Tablets*/
 @media (min-width: 768px) {
-#flair {
+.work {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+
+.flair {
   width: 28%;
   height: auto;
   float: left;
